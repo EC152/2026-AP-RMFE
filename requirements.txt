@@ -1,0 +1,12 @@
+numpy==2.2.6
+pandas
+scikit-learn==1.5.0
+xgboost==2.1.4
+torch==2.12.0+cpu
+shap==0.49.0
+pandas_market_calendars==5.4.0
+statsmodels
+databento
+pyarrow
+matplotlib
+seaborn
